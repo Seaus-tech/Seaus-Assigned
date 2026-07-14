@@ -1,10 +1,10 @@
 # 🎯 Seaus-Assigned
 
-<p align="center>
+<p align="center">
   <strong>Assigned tasks, projects, and development roadmap for the Seaus ecosystem.</strong>
 </p>
 
-<p align="center>
+<p align="center">
   <img src="https://img.shields.io/badge/Platform-iOS%20%7C%20macOS-blue?style=flat-square&logo=apple" alt="Platforms" />
   <img src="https://img.shields.io/badge/Language-Swift-orange?style=flat-square&logo=swift" alt="Swift" />
   <img src="https://img.shields.io/badge/Framework-SwiftUI-orange?style=flat-square&logo=swift" alt="SwiftUI" />
@@ -63,6 +63,6 @@ This is an internal task management repository. For external contributions, plea
 
 ---
 
-<p align="center>
+<p align="center">
   <sub>© 2026 Seaus Tech. All rights reserved.</sub>
 </p>
